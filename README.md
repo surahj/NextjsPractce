@@ -1,1 +1,1 @@
-# NextjsPractce
+# NextjsPractice
